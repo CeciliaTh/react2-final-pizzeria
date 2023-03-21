@@ -1,7 +1,7 @@
 .active{
-    color:red;
+    color:white;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .no-active{
@@ -21,12 +21,14 @@
    list-style: none;
 }
 
-/* .div-card{
-    display: flex;
-    flex-direction: row;
+.fondo{
+    background-image: url("../Imagenes/fondo-pizza-2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:200px;
 }
-.div-card-body{
-    display: flex;
-    flex-direction: column;
-    justify-content: right;
-} */
+
+.footer{
+    margin-top: 0;
+}

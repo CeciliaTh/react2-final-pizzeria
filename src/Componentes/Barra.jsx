@@ -18,7 +18,7 @@ const Barra = () => {
       <nav className='barra'>
        
           <NavLink className={setActiveClass} to="/">
-            🍕Pizzeria Mamma Mia🍕
+            🍕Pizzería Mamma Mia🍕
           </NavLink>
         
           <NavLink className={setActiveClass} to="/carrito">
